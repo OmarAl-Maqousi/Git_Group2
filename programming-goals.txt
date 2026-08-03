@@ -32,3 +32,12 @@ Programming Goals
 2. Build Real-World Applications
 3. Write Clean and Maintainable Code
 ====================
+
+
+====================
+Programming Goals
+
+1. Improving my self in OOP
+2. Make a new connections in Programming  community
+3. Get a good jop as FULL stack developer
+====================
