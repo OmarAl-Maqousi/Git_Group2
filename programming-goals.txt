@@ -14,3 +14,12 @@ Programming Goals
 2. Build Kotlin apps
 3. Learn object oriented programming
 ====================
+
+
+====================
+Programming Goals
+
+1. Learn Git
+2. Improve Java skills
+3. Build better projects
+====================
