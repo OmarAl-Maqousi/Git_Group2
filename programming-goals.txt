@@ -23,3 +23,12 @@ Programming Goals
 2. Improve Java skills
 3. Build better projects
 ====================
+
+
+====================
+Programming Goals
+
+1. Develop Problem-Solving Skills
+2. Build Real-World Applications
+3. Write Clean and Maintainable Code
+====================
