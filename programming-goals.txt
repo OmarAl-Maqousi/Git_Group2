@@ -1,0 +1,7 @@
+====================
+Programming Goals
+
+1. Master Git & GitHub collaboration workflows.
+2. Build clean, scalable, and maintainable code.
+3. Master Multi-Agent Systems & AI Prompt Engineering.
+====================
